@@ -13,3 +13,9 @@ Project Description: I don't know.
 ## Sample Code
 
 ```printf("Hello World");```
+
+---------------------------------
+
+## How To Install:
+
+- Step 1: Download the zip file or use git clone.
