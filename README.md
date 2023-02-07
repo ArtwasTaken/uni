@@ -1,15 +1,15 @@
-#Mandin Project
+# Mandin Project
 
 Project Description: I don't know.
 
 ---------------------------------
 
-##Author
+## Author
 
 [Artemio J. Mandin Jr](https://github.com/ArtwasTaken)
 
 ---------------------------------
 
-##Sample Code
+## Sample Code
 
 ```printf("Hello World");```
